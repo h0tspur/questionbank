@@ -1,6 +1,6 @@
 # questionbank
 ## Contents
-- [C#](#csharp)
+- [C#](#c)
 - [Javascript](#javascript)
-## CSharp
+## C#
 ## Javascript
